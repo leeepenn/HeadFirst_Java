@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StaticTests",
+            "request": "launch",
+            "mainClass": "chapter10.StaticTests",
+            "projectName": "headfirst_60f4d89d"
+        }
+    ]
+}
