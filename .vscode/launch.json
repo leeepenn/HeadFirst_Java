@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - MusicTest1",
+            "request": "launch",
+            "mainClass": "chapter11.MusicTest1",
+            "projectName": "HeadFirst_Java_3a1afb4a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StaticTests",
+            "request": "launch",
+            "mainClass": "chapter10.StaticTests",
+            "projectName": "HeadFirst_Java_3a1afb4a"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - StaticTests",
             "request": "launch",
             "mainClass": "chapter10.StaticTests",
